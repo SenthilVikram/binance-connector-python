@@ -1,0 +1,5 @@
+Audio settings for personal assisstant voice. 
+Joanna, Female
+audio settings: mp3, 24000Hz
+voice settings: voice volume: 20db, voice speed: -8%, voice pitch :12%
+voice effect: DRC (for more high volume) or default for normal volume
